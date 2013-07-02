@@ -1,0 +1,19 @@
+strawnews.de
+
+<----Feeds // --->
+
+http://www.welt.de/gesundheit/?service=Rss
+http://www.welt.de/sport/fussball/?service=Rss
+http://www.welt.de/wirtschaft/webwelt/?service=Rss
+http://www.welt.de/wirtschaft/karriere/?service=Rss
+http://www.welt.de/vermischtes/weltgeschehen/?service=Rss
+http://www.welt.de/lifestyle/?service=Rss
+http://www.welt.de/reise/deutschland/?service=Rss
+http://www.welt.de/regionales/frankfurt/?service=Rss
+http://www.welt.de/politik/deutschland/?service=Rss
+http://www.welt.de/finanzen/verbraucher/?service=Rss
+http://feeds.t-online.de/rss/handy
+http://www.jungewelt.de/feeds/wissenschaft_umwelt.xml
+http://www.heise.de/developer/rss/news-atom.xml
+http://www.fcbayern.telekom.de/de/aktuell/fcbRSS.xml
+http://rss.chip.de/c/573/f/7440/index.rss
